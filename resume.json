@@ -12,11 +12,11 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": ["C#", "Python", "Dart"]
+      "keywords": ["C#", "Dart", "Python"]
     },
     {
       "name": "Databases",
-      "keywords": ["PostgreSQL", "MySQL", "SQLite", "Azure CosmosDb", "Redis", "SQL Server", "MongoDB"]
+      "keywords": ["PostgreSQL", "MySQL", "SQL Server", "Azure CosmosDb", "Redis"]
     },
     {
       "name": "Cloud Services",
@@ -24,15 +24,15 @@
     },
     {
       "name": "Frameworks",
-      "keywords": [".Net Core", "Entity Framework Core", "Django", "Flutter"]
+      "keywords": [".Net Core", "Entity Framework Core", "Flutter", "Django"]
     },
     {
       "name": "Version Control Systems",
-      "keywords": ["Git", "GitHub", "GitLab", "BitBucket", "Azure DevOps"]
+      "keywords": ["Git", "GitHub", "GitLab", "Azure DevOps"]
     },
     {
       "name": "Other Tools",
-      "keywords": ["Elastic Search", "SignalR"]
+      "keywords": ["Elastic Search", "Coolify", "CloudFlare", "PostHog", "Docker"]
     }
   ],
   "work": [
@@ -42,10 +42,10 @@
       "position": "Software Engineer",
       "startDate": "2020-03",
       "endDate": "2023-08",
-      "summary": "Worked on multiple projects in the media streaming and industrial domains. Involved in migration, backend development, and software portal design.",
+      "summary": "Worked on multiple media streaming and industrial projects. Involved in migration, backend development, and software portal design.",
       "highlights": [
         "Supported and developed OTT music app (Roku, BrightScript).",
-        "Migrated legacy systems to Python, Django, .NET Core.",
+        "Migrated legacy systems from Python Django to C# .NET Core.",
         "Developed OTA software update portal using .NET Core and C#."
       ]
     },
@@ -53,11 +53,12 @@
       "name": "iOL",
       "position": "Software Engineer",
       "startDate": "2023-08",
-      "summary": "Back-end developer of web applications in Fin-tech & Direct Bookings areas. Focused on integrations, support, and high-load systems.",
+      "summary": "Back-end developer of web applications in Hospitality & Direct Bookings areas. Focused on integrations, support, and high-load systems.",
       "highlights": [
         "Third-party integrations.",
         "Maintenance of existing systems.",
-        "Work on high-loaded applications."
+        "Work on high-load application optimizations.",
+        "Introducing new features."
       ]
     }
   ],
@@ -82,6 +83,18 @@
   ],
   "projects": [
     {
+      "name": "Слово Дня (Word of the Day)",
+      "description": "Website that shows a different daily word based on current news and events.",
+      "highlights": [
+        "Front-end and back-end implementation.",
+        "Using AI to summarize news and events to choose and explain words.",
+        "Mobile and desktop friendly.",
+        "Self-hosted using Coolify."
+      ],
+      "keywords": [".Net Core", "C#", "Entity Framework Core", "Dart", "Flutter", "Coolify", "Docker"],
+      "url": "slovodnia.com"
+    },
+    {
       "name": "Sudoku+",
       "description": "Mobile game for Android with a real-time multiplayer Sudoku puzzle mode. Full-stack implementation.",
       "highlights": [
@@ -93,7 +106,7 @@
     },
     {
       "name": "Cellular Automaton PRNG",
-      "description": "Code library implementing a PRNG algorithm based on 1D cellular automaton. Passed NIST SP 800-22 test suite.",
+      "description": "Code library implementing a PRNG algorithm based on a one-dimensional cellular automaton. Passed NIST SP 800-22 test suite.",
       "keywords": [".Net Standard", "C#"],
       "url": "https://github.com/Kermanov/CelularAutomatonPRNG/tree/main/src/CelularAutomatonPRNG"
     }
