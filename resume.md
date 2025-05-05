@@ -95,7 +95,7 @@ Mobile game for Android with real-time multiplayer Sudoku puzzle mode.
 
 ---
 
-### [Cellular Automaton PRNG](https://github.com/Kermanov/CelularAutomatonPRNG/tree/main/src/CelularAutomatonPRNG)  
+### Cellular Automaton PRNG
 Code library implementing a PRNG algorithm based on one-dimensional cellular automaton.  
 **Highlights:**
 - Passed NIST SP 800-22 test suite
