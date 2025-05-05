@@ -2,44 +2,25 @@
   "basics": {
     "name": "Maksym Dovhan",
     "label": "Software Engineer",
+    "image": "",
     "email": "kerman901@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced Software Engineer with over 4 years of expertise in .NET Core backend development. Bachelor's in Computer Science. Skilled in scalable application design, API development, and performance optimization. Strong communicator and problem solver. Passionate about impactful software solutions.",
     "location": {
+      "address": "",
+      "postalCode": "",
       "city": "Lviv",
-      "country": "Ukraine"
+      "countryCode": "UA",
+      "region": ""
     },
-    "summary": "Experienced Software Engineer with over 4 years of expertise in .NET Core backend development. Bachelor's in Computer Science. Skilled in scalable application design, API development, and performance optimization. Strong communicator and problem solver. Passionate about impactful software solutions."
+    "profiles": []
   },
-  "skills": [
-    {
-      "name": "Languages",
-      "keywords": ["C#", "Dart", "Python"]
-    },
-    {
-      "name": "Databases",
-      "keywords": ["PostgreSQL", "MySQL", "SQL Server", "Azure CosmosDb", "Redis"]
-    },
-    {
-      "name": "Cloud Services",
-      "keywords": ["Azure", "AWS"]
-    },
-    {
-      "name": "Frameworks",
-      "keywords": [".Net Core", "Entity Framework Core", "Flutter", "Django"]
-    },
-    {
-      "name": "Version Control Systems",
-      "keywords": ["Git", "GitHub", "GitLab", "Azure DevOps"]
-    },
-    {
-      "name": "Other Tools",
-      "keywords": ["Elastic Search", "Coolify", "CloudFlare", "PostHog", "Docker"]
-    }
-  ],
   "work": [
     {
       "name": "GlobalLogic",
-      "location": "Lviv, Ukraine",
       "position": "Software Engineer",
+      "url": "",
       "startDate": "2020-03",
       "endDate": "2023-08",
       "summary": "Worked on multiple media streaming and industrial projects. Involved in migration, backend development, and software portal design.",
@@ -52,7 +33,9 @@
     {
       "name": "iOL",
       "position": "Software Engineer",
+      "url": "",
       "startDate": "2023-08",
+      "endDate": "",
       "summary": "Back-end developer of web applications in Hospitality & Direct Bookings areas. Focused on integrations, support, and high-load systems.",
       "highlights": [
         "Third-party integrations.",
@@ -62,13 +45,52 @@
       ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Ivan Franko National University, Lviv",
+      "url": "",
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2017-09",
-      "endDate": "2021-06"
+      "endDate": "2021-06",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": ["C#", "Dart", "Python"]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": ["PostgreSQL", "MySQL", "SQL Server", "Azure CosmosDb", "Redis"]
+    },
+    {
+      "name": "Cloud Services",
+      "level": "",
+      "keywords": ["Azure", "AWS"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [".Net Core", "Entity Framework Core", "Flutter", "Django"]
+    },
+    {
+      "name": "Version Control Systems",
+      "level": "",
+      "keywords": ["Git", "GitHub", "GitLab", "Azure DevOps"]
+    },
+    {
+      "name": "Other Tools",
+      "level": "",
+      "keywords": ["Elastic Search", "Coolify", "CloudFlare", "PostHog", "Docker"]
     }
   ],
   "languages": [
@@ -81,9 +103,13 @@
       "fluency": "Native speaker"
     }
   ],
+  "interests": [],
+  "references": [],
   "projects": [
     {
       "name": "Слово Дня (Word of the Day)",
+      "startDate": "",
+      "endDate": "",
       "description": "Website that shows a different daily word based on current news and events.",
       "highlights": [
         "Front-end and back-end implementation.",
@@ -91,23 +117,25 @@
         "Mobile and desktop friendly.",
         "Self-hosted using Coolify."
       ],
-      "keywords": [".Net Core", "C#", "Entity Framework Core", "Dart", "Flutter", "Coolify", "Docker"],
-      "url": "slovodnia.com"
+      "url": "https://slovodnia.com"
     },
     {
       "name": "Sudoku+",
+      "startDate": "",
+      "endDate": "",
       "description": "Mobile game for Android with a real-time multiplayer Sudoku puzzle mode. Full-stack implementation.",
       "highlights": [
         "Front-end and back-end implementation",
         "Multiplayer game using SignalR"
       ],
-      "keywords": [".Net Core", "C#", "Entity Framework Core", "SignalR", "Dart", "Flutter", "Firebase"],
       "url": "https://play.google.com/store/apps/details?id=com.maksym.dovhan.sudoku.plus"
     },
     {
       "name": "Cellular Automaton PRNG",
+      "startDate": "",
+      "endDate": "",
       "description": "Code library implementing a PRNG algorithm based on a one-dimensional cellular automaton. Passed NIST SP 800-22 test suite.",
-      "keywords": [".Net Standard", "C#"],
+      "highlights": [],
       "url": "https://github.com/Kermanov/CelularAutomatonPRNG/tree/main/src/CelularAutomatonPRNG"
     }
   ]
