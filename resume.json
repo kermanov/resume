@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Maksym Dovhan",
+    "label": "Software Engineer",
+    "email": "kerman901@gmail.com",
+    "location": {
+      "city": "Lviv",
+      "country": "Ukraine"
+    },
+    "summary": "Experienced Software Engineer with over 4 years of expertise in .NET Core backend development. Bachelor's in Computer Science. Skilled in scalable application design, API development, and performance optimization. Strong communicator and problem solver. Passionate about impactful software solutions."
+  },
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": ["C#", "Python", "Dart"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "MySQL", "SQLite", "Azure CosmosDb", "Redis", "SQL Server", "MongoDB"]
+    },
+    {
+      "name": "Cloud Services",
+      "keywords": ["Azure", "AWS"]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [".Net Core", "Entity Framework Core", "Django", "Flutter"]
+    },
+    {
+      "name": "Version Control Systems",
+      "keywords": ["Git", "GitHub", "GitLab", "BitBucket", "Azure DevOps"]
+    },
+    {
+      "name": "Other Tools",
+      "keywords": ["Elastic Search", "SignalR"]
+    }
+  ],
+  "work": [
+    {
+      "name": "GlobalLogic",
+      "location": "Lviv, Ukraine",
+      "position": "Software Engineer",
+      "startDate": "2020-03",
+      "endDate": "2023-08",
+      "summary": "Worked on multiple projects in the media streaming and industrial domains. Involved in migration, backend development, and software portal design.",
+      "highlights": [
+        "Supported and developed OTT music app (Roku, BrightScript).",
+        "Migrated legacy systems to Python, Django, .NET Core.",
+        "Developed OTA software update portal using .NET Core and C#."
+      ]
+    },
+    {
+      "name": "iOL",
+      "position": "Software Engineer",
+      "startDate": "2023-08",
+      "summary": "Back-end developer of web applications in Fin-tech & Direct Bookings areas. Focused on integrations, support, and high-load systems.",
+      "highlights": [
+        "Third-party integrations.",
+        "Maintenance of existing systems.",
+        "Work on high-loaded applications."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ivan Franko National University, Lviv",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2017-09",
+      "endDate": "2021-06"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Sudoku+",
+      "description": "Mobile game for Android with a real-time multiplayer Sudoku puzzle mode. Full-stack implementation.",
+      "highlights": [
+        "Front-end and back-end implementation",
+        "Multiplayer game using SignalR"
+      ],
+      "keywords": [".Net Core", "C#", "Entity Framework Core", "SignalR", "Dart", "Flutter", "Firebase"],
+      "url": "https://play.google.com/store/apps/details?id=com.maksym.dovhan.sudoku.plus"
+    },
+    {
+      "name": "Cellular Automaton PRNG",
+      "description": "Code library implementing a PRNG algorithm based on 1D cellular automaton. Passed NIST SP 800-22 test suite.",
+      "keywords": [".Net Standard", "C#"],
+      "url": "https://github.com/Kermanov/CelularAutomatonPRNG/tree/main/src/CelularAutomatonPRNG"
+    }
+  ]
+}
