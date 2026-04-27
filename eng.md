@@ -1,12 +1,18 @@
 
-# Maksym Dovhan  
-**Software Engineer**  
-📧 kerman901@gmail.com  
+# Maksym Dovhan - .Net Backend Software Engineer
+
+📧 maksym.dovhan@proton.me  
 🌐 https://www.linkedin.com/in/maksym-andrijovych-dovhan  
 🌍 Lviv, Ukraine
 
 ## Summary  
-Experienced Software Engineer with over 5 years of expertise in development. Bachelor's in Computer Science. Skilled in scalable application design, API development, and performance optimization. Strong communicator and problem solver. Passionate about impactful software solutions.
+Experienced .Net Backend Software Engineer with over 6 years of expertise in development. Bachelor's in Computer Science. Skilled in scalable application design, API development, and performance optimization. Strong communicator and problem solver. Passionate about impactful software solutions.
+
+## Education
+
+### Ivan Franko National University, Lviv  
+**Bachelor's in Computer Science**  
+📅 Sep 2017 – Jun 2021
 
 ## Work Experience
 
@@ -15,18 +21,19 @@ Experienced Software Engineer with over 5 years of expertise in development. Bac
 Back-end developer of web applications in Hospitality & Direct Bookings areas. Focused on high-load systems, integrations, and support.
 
 **Highlights:**
-- Work on high-load applications
-- Introducing new key features
-- Third-party integrations
-- Maintenance of existing systems
+- Daily work on high-load applications
+- Major third-party integrations (Booking.com, Visit Dubai)
+- Introduced new key systems (Identity, Rate Limiting, IP Whitelisting and more)
+- Maintenance and monitoring of existing systems (OpenTelemetry, Elastic, Kibana, Grafana)
+- Optimization of high-load search engine
 
 **Tech Stack:**
 - C#, .NET Core
 - Entity Framework, Identity
 - PostgreSQL, Azure CosmosDb, Elastic Search, Redis
 - Azure DevOps, Azure Portal (App Service, Service Bus, Event Hub, etc)
-- MassTransit, OpenTelemetry
-- Grafana
+- OpenTelemetry, Grafana
+- GitHub Copilot, Claude Code
 
 ---
 
@@ -46,34 +53,25 @@ Worked on multiple media streaming and industrial projects. Involved in migratio
 - Azure DevOps, Azure Portal (App Service, Service Bus, Event Hub, etc)
 - Jira, GitLab
 
-## Education
-
-### Ivan Franko National University, Lviv  
-**Bachelor's in Computer Science**  
-📅 Sep 2017 – Jun 2021
-
 ## Skills
 
-### Languages  
-C#, Dart, Python, BrightScript
+### .Net/Languages
+C# (v10+), .NET Core, Entity Framework Core (EF Core), LINQ, SQL.
 
-### Databases  
-PostgreSQL, MySQL, SQL Server, Azure CosmosDb, Redis  
+### Azure Cloud Ecosystem
+Azure App Services, Azure SQL, Azure Cosmos DB, Azure Service Bus, Event Grid.
 
-### Cloud Services  
-Azure, AWS  
+### Architecture & Design
+Microservices, Event-Driven Architecture, Domain-Driven Design (DDD), CQRS, RESTful API design, SOLID principles, Dependency Injection.
 
-### Frameworks  
-.NET Core, Entity Framework Core, Flutter, Django  
+### DevOps
+Azure DevOps Pipelines / GitHub Actions, Docker.
 
-### Version Control Systems  
-Git, GitHub, GitLab, Azure DevOps
+### Observability
+OpenTelemetry, Elastic Search, Kibana, Grafana.
 
-### AI Tools:
-OpenAI API, GitHub Copilot, Stable Diffusion
-
-### Other Tools  
-Elastic Search, Docker, Coolify, CloudFlare, PostHog  
+### AI
+GitHub Copilot, Claude Code
 
 ## Languages  
 - Ukrainian — Native speaker  

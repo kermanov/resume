@@ -1,49 +1,11 @@
-# Максим Довгань  
-**Розробник програмного забезпечення**  
-📧 kerman901@gmail.com  
+# Максим Довгань - .Net Backend Розробник
+
+📧 maksym.dovhan@proton.me  
 🌐 https://www.linkedin.com/in/maksym-andrijovych-dovhan  
 🌍 Львів, Україна
 
 ## Резюме  
-Досвідчений розробник програмного забезпечення з понад 5-річним стажем у розробці. Бакалавр з комп’ютерних наук. Маю навички у проєктуванні масштабованих застосунків, розробці API та оптимізації продуктивності. Добре комунікую і вирішую проблеми. Прагну створювати ефективні програмні рішення.
-
-## Досвід роботи
-
-### Back-end розробник — *iOL*  
-📅 Серпень 2023 – дотепер  
-Back-end розробник веб застосунків у сфері гостинності та прямого бронювання. Сфокусований на високонавантажених системах, інтеграціях і підтримці.
-
-**Основні досягнення:**
-- Робота з високонавантаженими застосунками  
-- Впровадження нових ключових функцій  
-- Інтеграція зі сторонніми сервісами  
-- Підтримка наявних систем  
-
-**Технології:**
-- C#, .NET Core  
-- Entity Framework, Identity  
-- PostgreSQL, Azure CosmosDb, Elastic Search, Redis  
-- Azure DevOps, Azure Portal (App Service, Service Bus, Event Hub тощо)  
-- MassTransit, OpenTelemetry  
-- Grafana  
-
----
-
-### Full Stack розробник — *GlobalLogic*  
-📅 Березень 2020 – Серпень 2023  
-Працював над кількома проєктами у сфері медіа-стримінгу та промислових рішень. Брав участь у міграції, розробці бекенду та створенні програмних порталів.
-
-**Основні досягнення:**
-- Підтримка та розробка музичного OTT-застосунку (Roku, BrightScript)  
-- Міграція легасі-систем з Python Django на C# .NET Core  
-- Розробка порталу для OTA-оновлень ПЗ на .NET Core та C#  
-
-**Технології:**
-- C#, .NET Core, Python, BrightScript  
-- Entity Framework, Identity, Django  
-- PostgreSQL, Azure CosmosDb, Elastic Search, Redis  
-- Azure DevOps, Azure Portal (App Service, Service Bus, Event Hub тощо)  
-- Jira, GitLab  
+Досвідчений .Net Backend розробник з понад 6-річним стажем. Бакалавр з комп’ютерних наук. Маю навички у проєктуванні масштабованих застосунків, розробці API та оптимізації продуктивності. Відкритий до спілкування та вмію ефективно вирішувати проблеми. Захоплений створенням впливових програмних рішень.
 
 ## Освіта
 
@@ -51,28 +13,64 @@ Back-end розробник веб застосунків у сфері гост
 **Бакалавр з комп’ютерних наук**  
 📅 Вересень 2017 – Червень 2021
 
+## Досвід роботи
+
+### Software Engineer — *iOL*  
+📅 Серпень 2023 – дотепер  
+Back-end розробник вебзастосунків у сферах Hospitality та Direct Bookings. Сфокусований на високонавантажених системах, інтеграціях і підтримці.
+
+**Основні досягнення:**
+- Щоденна робота з високонавантаженими застосунками
+- Великі інтеграції зі сторонніми сервісами (Booking.com, Visit Dubai)
+- Впровадження нових ключових систем (Identity, Rate Limiting, IP Whitelisting тощо)
+- Підтримка та моніторинг наявних систем (OpenTelemetry, Elastic, Kibana, Grafana)
+- Оптимізація високонавантаженого пошукового рушія
+
+**Технології:**
+- C#, .NET Core
+- Entity Framework, Identity
+- PostgreSQL, Azure CosmosDb, Elastic Search, Redis
+- Azure DevOps, Azure Portal (App Service, Service Bus, Event Hub тощо)
+- OpenTelemetry, Grafana
+- GitHub Copilot, Claude Code
+
+---
+
+### Software Engineer — *GlobalLogic*  
+📅 Березень 2020 – Серпень 2023  
+Працював над кількома проєктами у сфері медіа-стримінгу та промислових рішень. Брав участь у міграції, розробці бекенду та проєктуванні програмних порталів.
+
+**Основні досягнення:**
+- Підтримка та розробка музичного OTT-застосунку (Roku, BrightScript)  
+- Міграція легасі-систем з Python Django на C# .NET Core  
+- Розробка порталу для OTA-оновлень ПЗ на .NET Core та C#  
+
+**Технології:**
+- C#, .NET Core, Python, BrightScript
+- Entity Framework, Identity, Django
+- PostgreSQL, Azure CosmosDb, Elastic Search, Redis
+- Azure DevOps, Azure Portal (App Service, Service Bus, Event Hub тощо)
+- Jira, GitLab
+
 ## Навички
 
-### Мови програмування  
-C#, Dart, Python, BrightScript  
+### .Net/Мови
+C# (v10+), .NET Core, Entity Framework Core (EF Core), LINQ, SQL.
 
-### Бази даних  
-PostgreSQL, MySQL, SQL Server, Azure CosmosDb, Redis  
+### Екосистема Azure Cloud
+Azure App Services, Azure SQL, Azure Cosmos DB, Azure Service Bus, Event Grid.
 
-### Хмарні сервіси  
-Azure, AWS  
+### Архітектура та Дизайн
+Microservices, Event-Driven Architecture, Domain-Driven Design (DDD), CQRS, RESTful API design, SOLID principles, Dependency Injection.
 
-### Фреймворки  
-.NET Core, Entity Framework Core, Flutter, Django  
+### DevOps
+Azure DevOps Pipelines / GitHub Actions, Docker.
 
-### Системи контролю версій  
-Git, GitHub, GitLab, Azure DevOps  
+### Observability
+OpenTelemetry, Elastic Search, Kibana, Grafana.
 
-### Інструменти ШІ:  
-OpenAI API, GitHub Copilot, Stable Diffusion  
-
-### Інші інструменти  
-Elastic Search, Docker, Coolify, CloudFlare, PostHog  
+### ШІ
+GitHub Copilot, Claude Code
 
 ## Мови  
 - Українська — Рідна  
